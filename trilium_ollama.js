@@ -1,4 +1,3 @@
-
 /* 
 
 HOW TO INSTALL THE SCRIPT
